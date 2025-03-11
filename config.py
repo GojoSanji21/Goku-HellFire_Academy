@@ -29,7 +29,7 @@ PORT = os.environ.get("PORT", "8080")
 
 #Database --⚠️ REQUIRED--
 DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://sagatobots00001:sagatobots100@cluster00001.vgdshkw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster00001")
-DB_NAME = os.environ.get("DATABASE_NAME", "aniverse_manhwa_world")
+DB_NAME = os.environ.get("DATABASE_NAME", "Mihawk_Flux_Bot")
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
