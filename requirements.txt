@@ -12,4 +12,4 @@ motor  # Async driver for MongoDB
 aiohttp 
 
 # --- Advance-Format --- #
-pyrofork==2.3.38
+pyrofork
