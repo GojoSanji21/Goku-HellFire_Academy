@@ -3,7 +3,7 @@ import motor.motor_asyncio
 #from config import DB_URI, DB_NAME
 
 #Database --⚠️ REQUIRED--
-DB_URI = "mongodb+srv://sagatobots00001:sagatobots100@cluster00001.vgdshkw.mongodb.net/Mihawk_Flux_Bot?retryWrites=true&w=majority"
+DB_URI = "mongodb+srv://adamopytbusiness1:uSswEjo4ZHMGDU8Z@cluster0.gqgmk.mongodb.net/?retryWrites=true&w=majority&appName=MihawkFluxBot"
 DB_NAME =  "Mihawk_Flux_Bot"
 
 class SidDataBase:
